@@ -6,10 +6,9 @@ A simple GoLang script to fetch the favicon.ico file from a given domain and cal
 
 1. Clone the repository:
 
-```bash
 $ git clone https://github.com/dzhenway/Favicon-Hash-Checker.git
 
-```Run the script, providing the domain name as a command-line argument:
+Run the script, providing the domain name as a command-line argument:
 
 $ **./favicon-hash-checker -d example.com**
 
