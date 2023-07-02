@@ -2,11 +2,9 @@
 
 A simple GoLang script to fetch the favicon.ico file from a given domain and calculate its hash using MurmurHash3 algorithm.
 
-## Usage
+Clone the repository:
 
-1. Clone the repository:
-
-$ git clone https://github.com/dzhenway/Favicon-Hash-Checker.git
+$ **git clone https://github.com/dzhenway/Favicon-Hash-Checker.git**
 
 Run the script, providing the domain name as a command-line argument:
 
